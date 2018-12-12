@@ -9,3 +9,4 @@ dev_clone 1
 dev_clone 2
 dev_clone 3
 dev_clone for reset commit1
+dev_clone for reset commit2
