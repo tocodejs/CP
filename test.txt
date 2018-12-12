@@ -10,6 +10,7 @@ dev_clone 2
 dev_clone 3
 dev_clone for reset commit1
 commit
+commit 2 conflict
 commit 1 conflict
 dev_clone for reset commit2
 reset commit
